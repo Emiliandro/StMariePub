@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 4597dcfb8f4df344ba18fa1ae661523d
+timeCreated: 1463803105
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-sheet-guitar_0
+    21300002: sprite-sheet-guitar_1
+    21300004: sprite-sheet-guitar_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite-sheet-guitar_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 372
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -178}
+        - {x: 46, y: -135}
+        - {x: 54, y: -134}
+        - {x: 56, y: -132}
+        - {x: 58, y: -107}
+        - {x: 91, y: -100}
+        - {x: 116, y: -89}
+        - {x: 139, y: -64}
+        - {x: 163, y: -52}
+        - {x: 186, y: -38}
+        - {x: 186, y: 4}
+        - {x: 178, y: 25}
+        - {x: 165, y: 38}
+        - {x: 137, y: 40}
+        - {x: 116, y: 27}
+        - {x: 116, y: 64}
+        - {x: 119, y: 82}
+        - {x: 118, y: 110}
+        - {x: 94, y: 112}
+        - {x: 92, y: 204}
+        - {x: -44, y: 204}
+        - {x: -68, y: 108}
+        - {x: -70, y: 83}
+        - {x: -67, y: 64}
+        - {x: -103, y: 52}
+        - {x: -175, y: 16}
+        - {x: -186, y: 3}
+        - {x: -186, y: -75}
+        - {x: -176, y: -90}
+        - {x: -152, y: -115}
+        - {x: -140, y: -110}
+        - {x: -140, y: -204}
+        - {x: 92, y: -204}
+    - name: sprite-sheet-guitar_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 60
+        width: 324
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -191}
+        - {x: 58, y: -178}
+        - {x: 44, y: -132}
+        - {x: 42, y: -130}
+        - {x: 68, y: -115}
+        - {x: 162, y: -59}
+        - {x: 162, y: -6}
+        - {x: 158, y: 16}
+        - {x: 141, y: 26}
+        - {x: 113, y: 28}
+        - {x: 55, y: 6}
+        - {x: 55, y: -30}
+        - {x: 18, y: -58}
+        - {x: 16, y: -60}
+        - {x: 32, y: 36}
+        - {x: 34, y: 73}
+        - {x: 47, y: 94}
+        - {x: 43, y: 125}
+        - {x: 20, y: 122}
+        - {x: 20, y: 216}
+        - {x: -116, y: 216}
+        - {x: -141, y: 123}
+        - {x: -143, y: 95}
+        - {x: -138, y: 94}
+        - {x: -118, y: 47}
+        - {x: -142, y: -11}
+        - {x: -142, y: -61}
+        - {x: -162, y: -105}
+        - {x: -162, y: -216}
+        - {x: 68, y: -216}
+    - name: sprite-sheet-guitar_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 60
+        width: 336
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -185}
+        - {x: 77, y: -172}
+        - {x: 40, y: -169}
+        - {x: 40, y: -101}
+        - {x: 73, y: -94}
+        - {x: 98, y: -83}
+        - {x: 145, y: -46}
+        - {x: 168, y: -32}
+        - {x: 168, y: 18}
+        - {x: 149, y: 48}
+        - {x: 119, y: 46}
+        - {x: 92, y: 32}
+        - {x: 70, y: 19}
+        - {x: 68, y: 5}
+        - {x: 62, y: 15}
+        - {x: 76, y: 29}
+        - {x: 74, y: 70}
+        - {x: 77, y: 88}
+        - {x: 76, y: 116}
+        - {x: 52, y: 118}
+        - {x: 50, y: 210}
+        - {x: -89, y: 210}
+        - {x: -116, y: 88}
+        - {x: -101, y: 70}
+        - {x: -138, y: 34}
+        - {x: -168, y: -38}
+        - {x: -168, y: -84}
+        - {x: -160, y: -139}
+        - {x: -146, y: -210}
+        - {x: -53, y: -210}
+        - {x: -28, y: -179}
+        - {x: -26, y: -210}
+        - {x: 86, y: -210}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

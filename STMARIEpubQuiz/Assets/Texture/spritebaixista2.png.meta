@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 3c00e236b3612d3499f18692c800d97d
+timeCreated: 1463927753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritebaixista2_0
+    21300002: spritebaixista2_1
+    21300004: spritebaixista2_2
+    21300006: spritebaixista2_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritebaixista2_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 228
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 82}
+        - {x: -49, y: 56}
+        - {x: -49, y: -68}
+        - {x: -20, y: -82}
+        - {x: 40, y: -82}
+        - {x: 49, y: -57}
+        - {x: 49, y: 81}
+        - {x: 47, y: 82}
+    - name: spritebaixista2_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 228
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 81.5}
+        - {x: -49, y: 81.5}
+        - {x: -49, y: -69.5}
+        - {x: -46, y: -81.5}
+        - {x: 35, y: -81.5}
+        - {x: 48, y: -57.5}
+        - {x: 49, y: -45.5}
+        - {x: 49, y: 71.5}
+    - name: spritebaixista2_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 82}
+        - {x: -49, y: 56}
+        - {x: -49, y: -68}
+        - {x: -20, y: -82}
+        - {x: 40, y: -82}
+        - {x: 49, y: -57}
+        - {x: 49, y: 81}
+        - {x: 47, y: 82}
+    - name: spritebaixista2_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 36
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 81.5}
+        - {x: -49, y: 81.5}
+        - {x: -49, y: -69.5}
+        - {x: -46, y: -81.5}
+        - {x: 35, y: -81.5}
+        - {x: 48, y: -57.5}
+        - {x: 49, y: -45.5}
+        - {x: 49, y: 71.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
