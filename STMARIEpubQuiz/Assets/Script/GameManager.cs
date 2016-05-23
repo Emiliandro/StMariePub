@@ -7,17 +7,13 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
 
-    [SerializeField]
-    private Questions[] Perguntas;
-    [SerializeField]
-    private static List<Questions> naoRespondidos;
-    private int optacao;
-    private Questions atualPergunta;
+    [SerializeField]private Questions[] Perguntas;
+    [SerializeField]private static List<Questions> naoRespondidos;
+    [SerializeField]private int optacao;
+    [SerializeField]private Questions atualPergunta;
 
-    [SerializeField]
-    private Text factText, alt1, alt2, alt3, alt4;
-    [SerializeField]
-    private float delay = 0.5f;
+    [SerializeField]private Text factText, alt1, alt2, alt3, alt4;
+    [SerializeField]private float delay = 0.5f;
     public Animator clip; 
 
     void Start()
